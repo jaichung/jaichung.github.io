@@ -2,6 +2,6 @@
 title: Home
 ---
 
-![Jaichung Lee](/assets/img/peipei.jpg)
+![Jaichung Lee](/asset/img/peipei.jpg)
 
 This is my academic site. More coming soon.
