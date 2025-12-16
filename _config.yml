@@ -1,8 +1,8 @@
-theme: jekyll-theme-minima
+theme: cayman
 
 title: "Jaichung Lee"
 description: "PhD Student, University of Oregon"
-theme: minima
+# theme: minima
 
 nav:
   - title: "Home"
