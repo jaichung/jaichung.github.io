@@ -25,7 +25,7 @@ You can reach me at [jaichung@uoregon.edu](mailto:jaichung@uoregon.edu) and view
 </details>
 
 
-**Dynamic Voting over Pensions with Endogenous Fertility **
+**Dynamic Voting over Pensions with Endogenous Fertility**
 
 
 
