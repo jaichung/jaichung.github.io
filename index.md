@@ -11,6 +11,8 @@ Before starting my Ph.D., I received my M.A. in Economics from Seoul National Un
 You can reach me at [jaichung@uoregon.edu](mailto:jaichung@uoregon.edu) and view my **[CV](./cv.pdf)**.
  
 
+
+
 ## Working Papers
 
 **Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences**
@@ -22,7 +24,8 @@ You can reach me at [jaichung@uoregon.edu](mailto:jaichung@uoregon.edu) and view
   </p>
 </details>
 
-Dynamic Voting over Pensions with Endogenous Fertility 
+
+**Dynamic Voting over Pensions with Endogenous Fertility **
 
 
 
