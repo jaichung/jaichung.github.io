@@ -28,7 +28,7 @@ Before starting my Ph.D., I received my M.A. in Economics from Seoul National Un
 
 <!--You can reach me at [jaichung@uoregon.edu](mailto:jaichung@uoregon.edu) and view my **[CV](/asset/CV_Jaichung.pdf)**.-->
  
-
+<div style="height:24px;"></div>
 
 # Working Papers
 
