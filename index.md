@@ -3,6 +3,18 @@ layout: homepage
 title: ""
 ---
 
+<div class="home-hero">
+  <img class="home-hero__photo" src="{{ '/asset/img/peipei.jpg' | relative_url }}" alt="Jaichung Lee" />
+  <div>
+    <div class="home-hero__name">Jaichung Lee</div>
+    <div class="home-hero__tagline">PhD Student in Economics at the University of Oregon</div>
+    <div class="home-hero__links">
+      <a href="{{ '/cv/' | relative_url }}">CV</a>
+      <a href="mailto:jaichung@uoregon.edu">jaichung@uoregon.edu</a>
+    </div>
+  </div>
+</div>
+
 
 
 <img src="/asset/img/peipei.jpg" alt="Jaichung" width="200" style="border-radius: 8px;"/>
