@@ -47,8 +47,22 @@ Before starting my Ph.D., I received my M.A. in Economics from Seoul National Un
   </details>
 </div>
 
+<div class="paper">
+  <div class="paper__title">Dynamic Voting over Pensions with Endogenous Fertility</div>
+  <div class="paper__meta">with Jiabin Wu</div>
+  <div class="paper__links">
+    <a href="{{ '/assets/papers/dynamicvoting.pdf' | relative_url }}">Draft (PDF)</a>
+  </div>
 
-**Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences**
+  <details>
+    <summary>Abstract</summary>
+    <div>
+      This study examines an overlapping-generations (OLG) model with a pay-as-you-go (PAYG) pension system and endogenous fertility. The project focuses on how current workers’ contribution (labor tax) decisions and fertility choices jointly determine the evolution of public pension finances and the welfare of future generations. A key ingredient is heterogeneous fertility preferences and political choice over the future contribution rate, including cases where individuals are “atomistic” when choosing fertility but “macro-aware” when voting on the pension tax. The goal is to derive and interpret equilibrium fertility, voting behavior, and the conditions under which stable intergenerational pension arrangements exist.
+    </div>
+  </details>
+</div>
+
+<!-- **Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences**
 
 <details class="abstract">
   <summary>Abstract</summary>
@@ -58,7 +72,7 @@ Before starting my Ph.D., I received my M.A. in Economics from Seoul National Un
 </details>
 
 
-**Dynamic Voting over Pensions with Endogenous Fertility**
+**Dynamic Voting over Pensions with Endogenous Fertility** -->
 
 
 
