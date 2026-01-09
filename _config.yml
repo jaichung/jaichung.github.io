@@ -7,6 +7,9 @@ header_pages:
   - teaching.md
   - cv.md
 
+
+minima:
+skin: auto
 # nav:
 #   - title: "Home"
 #     url: /
