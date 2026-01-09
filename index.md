@@ -8,7 +8,7 @@ In Korean, my name is 이재정; the closest pronunciation in English is **Jae-j
 
 Before starting my Ph.D., I received my M.A. in Economics from Seoul National University and B.A. in Economics, Philosophy, and Scranton Honors Program from Ewha Womans University.
 
-You can reach me at [jaichung@uoregon.edu](mailto:jaichung@uoregon.edu) and view my **[CV](./cv.pdf)**.
+You can reach me at [jaichung@uoregon.edu](mailto:jaichung@uoregon.edu) and view my **[CV](/asset/CV_Jaichung.pdf)**.
  
 
 
