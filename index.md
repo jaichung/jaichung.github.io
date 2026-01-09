@@ -36,7 +36,7 @@ Before starting my Ph.D., I received my M.A. in Economics from Seoul National Un
   <div class="paper__title">Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences</div>
   <div class="paper__meta">Jaichung Lee</div>
   <div class="paper__links">
-    <a href="{{ '/assets/papers/fertility_crunch_draft.pdf' | relative_url }}">Draft (PDF)</a>
+    <a href="{{ 'asset/Explaining the Fertility Crunch_Jaichung Lee_Field Paper_2510.pdf' | relative_url }}">Draft (PDF)</a>
   </div>
 
   <details>
