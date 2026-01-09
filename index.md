@@ -33,6 +33,22 @@ You can reach me at [jaichung@uoregon.edu](mailto:jaichung@uoregon.edu) and view
 
 ## Working Papers
 
+<div class="paper">
+  <div class="paper__title">Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences</div>
+  <div class="paper__meta">Jaichung Lee</div>
+  <div class="paper__links">
+    <a href="{{ '/assets/papers/fertility_crunch_draft.pdf' | relative_url }}">Draft (PDF)</a>
+  </div>
+
+  <details>
+    <summary>Abstract</summary>
+    <div>
+      Assuming that preference on fertility is transmitted from earlier generation to the next, the high fertility preference group is expected to eventually dominate creating a homogeneous high preference society as the group is more likely to have more kids leading to faster growth in population than other preference group. However, a significant body of surveys reveals pronounced within-country heterogeneity in fertility ideals and many post-war societies exhibit persistently lowering pattern in fertility. In this paper, I propose a fertility model that children first acquire fertility ideals through cultural transmission, either from parents (vertical) or from the broader adult population (oblique). They then adjust these ideals after comparing their expected income with their parents’. Upward mobility can raise preferences, while downward mobility lowers them. This mobility shock offsets the evolutionary advantage of high-fertility groups, preserving preference diversity and driving the aggregate fertility rate to a stable ultra-low equilibrium. The framework highlights intergenerational mobility as a central, yet overlooked, determinant of fertility dynamics and offers a critical perspective on projections that anticipate a rebound in fertility without accounting for these mechanisms.
+    </div>
+  </details>
+</div>
+
+
 **Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences**
 
 <details class="abstract">
