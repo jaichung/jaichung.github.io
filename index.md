@@ -1,4 +1,7 @@
-
+---
+layout: homepage
+title: ""
+---
 
 <div class="home-hero">
   <img class="home-hero__photo" src="{{ '/asset/img/peipei.jpg' | relative_url }}" alt="Jaichung Lee" />
