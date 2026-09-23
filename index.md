@@ -17,7 +17,7 @@ title: ""
 
 
 
-<!-- <img src="/asset/img/me.jpg" alt="Jaichung" width="200" style="border-radius: 8px;"/> -->
+<!-- <img src="/asset/img/me.jpg" alt="Jaichung" width="350" style="border-radius: 4px;"/> -->
 
 
 Hi! I’m a **Ph.D. student in Economics** at the **University of Oregon**. My research explores **cultural transmission and evolutionary game theory.**
