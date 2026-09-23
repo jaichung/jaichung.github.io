@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div class="home-hero">
-  <img class="home-hero__photo" src="{{ '/asset/img/peipei.jpg' | relative_url }}" alt="Jaichung Lee" />
+  <img class="home-hero__photo" src="{{ '/asset/img/me.jpg' | relative_url }}" alt="Jaichung Lee" />
   <div>
     <div class="home-hero__name">Jaichung Lee</div>
     <div class="home-hero__tagline">PhD Student in Economics at the University of Oregon</div>
@@ -17,7 +17,7 @@ title: ""
 
 
 
-<!-- <img src="/asset/img/peipei.jpg" alt="Jaichung" width="200" style="border-radius: 8px;"/> -->
+<!-- <img src="/asset/img/me.jpg" alt="Jaichung" width="200" style="border-radius: 8px;"/> -->
 
 
 Hi! I’m a **Ph.D. student in Economics** at the **University of Oregon**. My research explores **cultural transmission and evolutionary game theory.**
