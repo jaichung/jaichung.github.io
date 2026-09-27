@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<article class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {% if content != "" %}<div class="page-intro prose">{{ content }}</div>{% endif %}
+
+  {% for group in page.groups %}
+    {% assign papers = site.data.papers | where: "status", group.status %}
+    {% if papers.size > 0 %}
+    <section class="section" aria-label="{{ group.title }}">
+      <h2 class="section-title">{{ group.title }}</h2>
+      <ol class="papers">
+        {% for p in papers %}
+        <li class="paper" id="{{ p.id }}">
+          {% include figure.html paper=p class="thumb" %}
+          <div class="paper-body">
+            <h3 class="paper-title">
+              {% assign first_link = p.links | first %}
+              {% if first_link %}<a href="{{ first_link.url | relative_url }}" target="_blank" rel="noopener">{{ p.title }}</a>{% else %}{{ p.title }}{% endif %}
+            </h3>
+            <p class="paper-authors">
+              {% if p.coauthors and p.coauthors != "" %}with {{ p.coauthors | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% else %}Solo-authored{% endif %}
+            </p>
+            {% if p.summary %}<p class="paper-summary">{{ p.summary }}</p>{% endif %}
+            {% include paper-links.html paper=p %}
+            {% if p.abstract %}
+            <details class="abstract-toggle">
+              <summary>Abstract</summary>
+              <p class="abstract">{{ p.abstract }}</p>
+            </details>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ol>
+    </section>
+    {% endif %}
+  {% endfor %}
+</article>
