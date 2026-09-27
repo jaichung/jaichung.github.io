@@ -1,0 +1,18 @@
+{%- comment -%}
+  Renders a paper figure, or a neutral placeholder box when no image is set.
+  Usage: {% include figure.html paper=paper class="thumb" %}
+{%- endcomment -%}
+{%- assign p = include.paper -%}
+{%- if p.image and p.image != "" -%}
+  <a class="{{ include.class }}" href="{{ p.image | relative_url }}" target="_blank" rel="noopener">
+    <img src="{{ p.image | relative_url }}" alt="{{ p.image_alt | default: p.title | escape }}" loading="lazy">
+  </a>
+{%- else -%}
+  <div class="{{ include.class }} is-empty" aria-hidden="true">
+    <svg viewBox="0 0 120 80" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M16 10v58h92"/>
+      <path d="M22 26c14 2 22 10 32 22s22 14 48 12" />
+      <path d="M22 54c16-2 26-12 38-22s24-12 42-12" stroke-dasharray="3 4"/>
+    </svg>
+  </div>
+{%- endif -%}

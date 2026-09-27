@@ -1,17 +1,18 @@
 ---
-title: CV
 layout: default
+title: CV
 permalink: /cv/
 ---
-
-# CV
-
-[Download CV (PDF)](/asset/CV_Jaichung.pdf)
-
-
-<!-- Responsive inline preview; falls back to link if not supported -->
-<div style="margin-top:1rem">
-  <object data="/asset/CV_Jaichung.pdf" type="application/pdf" width="100%" height="800">
-    <p>Your browser can’t display the PDF. Please use the link above.</p>
-  </object>
-</div>
+<article class="page">
+  <div class="cv-head">
+    <h1 class="page-title">Curriculum Vitae</h1>
+    <a class="btn btn-primary" href="{{ site.cv_pdf | relative_url }}" download>
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>
+      Download PDF
+    </a>
+  </div>
+  <div class="cv-frame">
+    <iframe src="{{ site.cv_pdf | relative_url }}#view=FitH" title="Curriculum Vitae of {{ site.author.name }}" loading="lazy"></iframe>
+  </div>
+  <p class="cv-fallback">If the preview does not load on your device, <a href="{{ site.cv_pdf | relative_url }}">open the PDF directly</a>.</p>
+</article>

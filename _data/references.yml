@@ -1,0 +1,23 @@
+# ------------------------------------------------------------
+# References shown at the bottom of the home page.
+# Please double-check titles and fill in emails and profile links.
+# Fields left empty are simply not shown.
+# ------------------------------------------------------------
+
+- name: Jiabin Wu
+  role: Associate Professor of Economics
+  institution: University of Oregon
+  email:
+  url:
+
+- name: Shankha Chakraborty
+  role: Professor of Economics
+  institution: University of Oregon
+  email:
+  url:
+
+- name: Alfredo Burlando
+  role: Associate Professor of Economics
+  institution: University of Oregon
+  email:
+  url:

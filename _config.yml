@@ -1,24 +1,39 @@
-# title: "Jaichung Lee"
-# description: "PhD Student, University of Oregon"
-theme: minima
+# ------------------------------------------------------------
+# Site settings
+# ------------------------------------------------------------
+title: Jaichung Lee
+description: >-
+  Ph.D. Candidate in Economics at the University of Oregon.
+  Research on family economics, cultural evolution, and fertility decline.
+url: "https://jaichung.github.io"
+baseurl: ""
+lang: en
 
-header_pages:  
-  - index.md
-  - research.md
-  - teaching.md
-  - cv.md
+author:
+  name: Jaichung Lee
+  email: jaichung@uoregon.edu
+  linkedin: https://www.linkedin.com/in/jaichung-lee-0717/
 
+# Replace this file to update the CV everywhere on the site
+cv_pdf: /assets/CV_Jaichung_Lee.pdf
 
-minima:
-skin: auto
-# nav:
-#   - title: "Home"
-#     url: /
-#   # - title: "Research"
-#   #   url: /research
-#   - title: "Teaching"
-#     url: /teaching
-#   - title: "CV"
-#     url: /cv
-  # - title: "Contact"
-  #   url: /contact
+# Top navigation (order matters)
+nav:
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: CV
+    url: /cv/
+
+# ------------------------------------------------------------
+# Build settings (GitHub Pages)
+# ------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md

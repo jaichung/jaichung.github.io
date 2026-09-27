@@ -1,9 +1,12 @@
 ---
+layout: research
 title: Research
 permalink: /research/
-layout: default
+groups:
+  - title: Job Market Paper
+    status: jmp
+  - title: Working Papers
+    status: working
+  - title: Work in Progress
+    status: progress
 ---
-
-# Research
-- “Paper Title,” Journal, 2024.
-- “Working Paper Title,” submitted.

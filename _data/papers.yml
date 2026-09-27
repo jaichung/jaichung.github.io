@@ -1,0 +1,82 @@
+# ------------------------------------------------------------
+# All papers live here. The home page and the research page both read this file.
+#
+# Fields
+#   id        short unique name, also used as the page anchor (#id)
+#   title     paper title
+#   coauthors leave empty for solo-authored. Markdown links are fine,
+#             e.g. "[Jiabin Wu](https://example.com)"
+#   status    jmp | working | progress
+#             jmp      = Job Market Paper (shown on the home page)
+#             working  = Working Papers
+#             progress = Work in Progress
+#   summary   one or two sentences describing the mechanism
+#   image     path to a thumbnail figure, e.g. /assets/img/papers/fertility-crunch.png
+#             leave empty to show a neutral placeholder box
+#   image_alt short description of the figure (for screen readers)
+#   caption   optional caption under the figure on the home page
+#   links     list of buttons, each with label and url
+#   abstract  full abstract
+# ------------------------------------------------------------
+
+- id: fertility-crunch
+  title: "Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences"
+  coauthors:
+  status: jmp
+  summary: >-
+    Children inherit fertility ideals from their parents and from society, then revise them
+    by comparing their own economic prospects with their parents'. When upward mobility stalls,
+    this revision offsets the demographic advantage of high-fertility families and holds
+    aggregate fertility at a stable, ultra-low equilibrium.
+  image:
+  image_alt:
+  caption:
+  links:
+    - label: Working Paper (PDF)
+      url: /assets/papers/fertility-crunch.pdf
+  abstract: >-
+    Assuming that preference on fertility is transmitted from earlier generation to the next,
+    the high fertility preference group is expected to eventually dominate creating a homogeneous
+    high preference society as the group is more likely to have more kids leading to faster growth
+    in population than other preference group. However, a significant body of surveys reveals
+    pronounced within-country heterogeneity in fertility ideals and many post-war societies exhibit
+    persistently lowering pattern in fertility. In this paper, I propose a fertility model that
+    children first acquire fertility ideals through cultural transmission, either from parents
+    (vertical) or from the broader adult population (oblique). They then adjust these ideals after
+    comparing their expected income with their parents'. Upward mobility can raise preferences,
+    while downward mobility lowers them. This mobility shock offsets the evolutionary advantage of
+    high-fertility groups, preserving preference diversity and driving the aggregate fertility rate
+    to a stable ultra-low equilibrium. The framework highlights intergenerational mobility as a
+    central, yet overlooked, determinant of fertility dynamics and offers a critical perspective on
+    projections that anticipate a rebound in fertility without accounting for these mechanisms.
+
+- id: dynamic-voting
+  title: "Dynamic Voting over Pensions with Endogenous Fertility"
+  coauthors: "Jiabin Wu"
+  status: working
+  summary:
+  image:
+  image_alt:
+  links:
+    - label: Draft (PDF)
+      url: /assets/papers/dynamic-voting.pdf
+  abstract: >-
+    This study examines an overlapping-generations (OLG) model with a pay-as-you-go (PAYG) pension
+    system and endogenous fertility. The project focuses on how current workers' contribution
+    (labor tax) decisions and fertility choices jointly determine the evolution of public pension
+    finances and the welfare of future generations. A key ingredient is heterogeneous fertility
+    preferences and political choice over the future contribution rate, including cases where
+    individuals are "atomistic" when choosing fertility but "macro-aware" when voting on the pension
+    tax. The goal is to derive and interpret equilibrium fertility, voting behavior, and the
+    conditions under which stable intergenerational pension arrangements exist.
+
+# Placeholder entry. Edit the title and abstract, or delete this block.
+- id: korea-lifecycle
+  title: "Working title: A Lifecycle Model of Women's Labor Supply, Marriage, and Fertility in South Korea"
+  coauthors:
+  status: progress
+  summary:
+  image:
+  image_alt:
+  links:
+  abstract:

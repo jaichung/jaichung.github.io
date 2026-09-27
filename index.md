@@ -1,82 +1,14 @@
 ---
-layout: homepage
-title: ""
+layout: home
+title: Home
+photo: /assets/img/me.jpg
+subtitle: Ph.D. Candidate in Economics, University of Oregon
+fields: Development, Family, and Cultural Economics
+jmp_label: 2026–2027 Job Market Paper
 ---
 
-<div class="home-hero">
-  <img class="home-hero__photo" src="{{ '/asset/img/me.jpg' | relative_url }}" alt="Jaichung Lee" />
-  <div>
-    <div class="home-hero__name">Jaichung Lee</div>
-    <div class="home-hero__tagline">PhD Student in Economics at the University of Oregon</div>
-    <div class="home-hero__links">
-      <a href="{{ '/cv/' | relative_url }}">CV</a>
-      <a href="mailto:jaichung@uoregon.edu">jaichung@uoregon.edu</a>
-    </div>
-  </div>
-</div>
+My research lies at the intersection of family economics and cultural evolution. I build tractable models of how preferences and norms about family and fertility form, spread, and co-evolve with economic development. My dissertation applies this mechanism to fertility decline in South Korea.
 
+Outside research, I love cooking for people around me, hunting down good food, and traveling.
 
-
-<!-- <img src="/asset/img/me.jpg" alt="Jaichung" width="350" style="border-radius: 4px;"/> -->
-
-
-Hi! I’m a **Ph.D. student in Economics** at the **University of Oregon**. My research explores **cultural transmission and evolutionary game theory.**
-
-In Korean, my name is 이재정; the closest pronunciation in English is **Jae-jeong** (rather than “Jaichung”).
-
-Before starting my Ph.D., I received my M.A. in Economics from Seoul National University and B.A. in Economics, Philosophy, and Scranton Honors Program from Ewha Womans University.
-
-<!--You can reach me at [jaichung@uoregon.edu](mailto:jaichung@uoregon.edu) and view my **[CV](/asset/CV_Jaichung.pdf)**.-->
- 
-<div style="height:24px;"></div>
-
-# Working Papers
-
-<div class="paper">
-  <div class="paper__title">Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences</div>
-  <div class="paper__meta">Jaichung Lee</div>
-  <div class="paper__links">
-    <a href="{{ 'asset/Explaining the Fertility Crunch_Jaichung Lee_draft.pdf' | relative_url }}">Draft (PDF)</a>
-  </div>
-
-  <details>
-    <summary>Abstract</summary>
-    <div>
-      Assuming that preference on fertility is transmitted from earlier generation to the next, the high fertility preference group is expected to eventually dominate creating a homogeneous high preference society as the group is more likely to have more kids leading to faster growth in population than other preference group. However, a significant body of surveys reveals pronounced within-country heterogeneity in fertility ideals and many post-war societies exhibit persistently lowering pattern in fertility. In this paper, I propose a fertility model that children first acquire fertility ideals through cultural transmission, either from parents (vertical) or from the broader adult population (oblique). They then adjust these ideals after comparing their expected income with their parents’. Upward mobility can raise preferences, while downward mobility lowers them. This mobility shock offsets the evolutionary advantage of high-fertility groups, preserving preference diversity and driving the aggregate fertility rate to a stable ultra-low equilibrium. The framework highlights intergenerational mobility as a central, yet overlooked, determinant of fertility dynamics and offers a critical perspective on projections that anticipate a rebound in fertility without accounting for these mechanisms.
-    </div>
-  </details>
-</div>
-
-<div class="paper">
-  <div class="paper__title">Dynamic Voting over Pensions with Endogenous Fertility</div>
-  <div class="paper__meta">with Jiabin Wu</div>
-  <div class="paper__links">
-    <a href="{{ '/assets/papers/dynamicvoting.pdf' | relative_url }}">Draft (PDF)</a>
-  </div>
-
-  <details>
-    <summary>Abstract</summary>
-    <div>
-      This study examines an overlapping-generations (OLG) model with a pay-as-you-go (PAYG) pension system and endogenous fertility. The project focuses on how current workers’ contribution (labor tax) decisions and fertility choices jointly determine the evolution of public pension finances and the welfare of future generations. A key ingredient is heterogeneous fertility preferences and political choice over the future contribution rate, including cases where individuals are “atomistic” when choosing fertility but “macro-aware” when voting on the pension tax. The goal is to derive and interpret equilibrium fertility, voting behavior, and the conditions under which stable intergenerational pension arrangements exist.
-    </div>
-  </details>
-</div>
-
-<!-- **Explaining the Fertility Crunch: The Roles of Intergenerational Income Mobility and Shifting Preferences**
-
-<details class="abstract">
-  <summary>Abstract</summary>
-  <p>
-  Assuming that preference on fertility is transmitted from earlier generation to the next, the high fertility preference group is expected to eventually dominate creating a homogeneous high preference society as the group is more likely to have more kids leading to faster growth in population than other preference group. However, a significant body of surveys reveals pronounced within-country heterogeneity in fertility ideals and many post-war societies exhibit persistently lowering pattern in fertility. In this paper, I propose a fertility model that children first acquire fertility ideals through cultural transmission, either from parents (vertical) or from the broader adult population (oblique). They then adjust these ideals after comparing their expected income with their parents’. Upward mobility can raise preferences, while downward mobility lowers them. This mobility shock offsets the evolutionary advantage of high-fertility groups, preserving preference diversity and driving the aggregate fertility rate to a stable ultra-low equilibrium. The framework highlights intergenerational mobility as a central, yet overlooked, determinant of fertility dynamics and offers a critical perspective on projections that anticipate a rebound in fertility without accounting for these mechanisms.
-  </p>
-</details>
-
-
-**Dynamic Voting over Pensions with Endogenous Fertility** -->
-
-
-
-
-
-<!-- <a src="/asset/img/peipei.jpg">Click me to see a cat</a> -->
-
+<p class="name-note">In Korean, my name is <span lang="ko">이재정</span>; the closest pronunciation in English is <em>Jae-jeong</em> (rather than “Jaichung”).</p>
