@@ -2,8 +2,9 @@
 # description: "PhD Student, University of Oregon"
 theme: minima
 
-header_pages:
+header_pages:  
   - index.md
+  - research.md
   - teaching.md
   - cv.md
 
