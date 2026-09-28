@@ -11,4 +11,4 @@ My research lies at the intersection of family economics and cultural evolution.
 
 Outside research, I love cooking for people around me, hunting down good food, and traveling.
 
-<p class="name-note">In Korean, my name is <span lang="ko">이재정</span>; the closest pronunciation in English is <em>Jae-jeong</em> (rather than “Jaichung”).</p>
+<p class="name-note">In Korean, my name is <span lang="ko">이재정</span>; the closest pronunciation in English is <em>Jae-jeong</em>.</p>

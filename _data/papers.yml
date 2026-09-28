@@ -51,24 +51,17 @@
     projections that anticipate a rebound in fertility without accounting for these mechanisms.
 
 - id: dynamic-voting
-  title: "Dynamic Voting over Pensions with Endogenous Fertility"
-  coauthors: "Jiabin Wu"
+  title: "Pension Politics and the Evolution of Fertility Preferences: A Political Economy of Fertility Decline"
+  coauthors: "Jonathan Newton, and Jiabin Wu"
   status: working
   summary:
   image:
   image_alt:
   links:
-    - label: Draft (PDF)
+    - label: Available upon request
       url: /assets/papers/dynamic-voting.pdf
   abstract: >-
-    This study examines an overlapping-generations (OLG) model with a pay-as-you-go (PAYG) pension
-    system and endogenous fertility. The project focuses on how current workers' contribution
-    (labor tax) decisions and fertility choices jointly determine the evolution of public pension
-    finances and the welfare of future generations. A key ingredient is heterogeneous fertility
-    preferences and political choice over the future contribution rate, including cases where
-    individuals are "atomistic" when choosing fertility but "macro-aware" when voting on the pension
-    tax. The goal is to derive and interpret equilibrium fertility, voting behavior, and the
-    conditions under which stable intergenerational pension arrangements exist.
+    This paper develops a political economy model linking pension politics to the evolution of fertility preferences. Individuals vote over taxes imposed on the next generation to finance their own pensions. Voters with low fertility preferences restrain taxation: although they have few descendants who bear the tax burden, high taxes reduce fertility among those who value children and thereby shrink the future pension base. Fiscal policy, in turn, shapes the evolution of fertility preferences through social learning. Young agents observe others’ apparent economic success but not the internal value they attach to having children. Because childless adults avoid child-rearing costs, they appear economically more successful, encouraging the spread of low fertility preferences. Higher taxes reduce family size and these visible costs, narrowing the apparent economic gap between parents and the childless and slowing that spread. Pension politics therefore feeds back into the long-run evolution of fertility preferences and fertility decline.
 
 # Placeholder entry. Edit the title and abstract, or delete this block.
 - id: korea-lifecycle
