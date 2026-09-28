@@ -1,18 +1,43 @@
 # ------------------------------------------------------------
-# Teaching entries, shown on the Teaching page in this order
-# (put the most recent course at the top).
+# Teaching page
+# 
+# statement     Short teaching philosophy (2 to 4 sentences)
+# instructor    course taught as Instructor of Record (most recent first)
+# assistant     courses as TA (most recent first). Entries with the same school are grouped under one subheading, so keep each school's courses together.
+# Course fields (empty fields are simply not shown)
+#   course       "course number and title" (use quotes if the name has a colon)
+#   term         "Spring 2025" or "Fall 2024, Winter 2025"
+#   school       institution
+#   size         optional (e.g., "~30 students")
+#   highlights   one or two sentences on what was distinctive about the course
+#   feedback     instructor courses only, a list of short student quotes. 
 #
-# Fields
-#   course  course number and title
-#   role    e.g. Instructor of Record, Teaching Assistant
-#   term    e.g. Fall 2025, or several terms "Fall 2024, Winter 2025"
-#   school  institution
-#   note    optional one line (evaluations, enrollment, syllabus link in Markdown)
-# Fields left empty are simply not shown.
+# Indent with spaces only, never tabs. 
 # ------------------------------------------------------------
 
-- course: EC 370 Money and Banking
-  role:
-  term:
-  school: University of Oregon
-  note:
+statement: >-
+  I teach economics as a way of reasoning rather than a set of results to memorize. In every course I ask students to build the argument themselves including stating the assumtptions, follow the logic one step at a time, and check what changes when an assumption changes. My goal is for students to leave able to work through an economic question they have never seen before, but will constantly appear in their lives.
+  e.g. "Should I buy a bond now or wait?"
+
+
+instructor:
+  - course: EC 370 Money and Banking
+    term: Fall 2024, Fall 2025
+    school: University of Oregon
+    size: ~ 80 students
+    highlights: 
+    feedback:
+      - "selected feedback."
+
+
+  - course: EC 313 Intermediate Macroeconomics
+    term: Summer 2025
+    school: University of Oregon
+    size: ~ 60 students
+    highlights: 
+    feedback:
+
+assistant:
+  - course: EC 448/548 Political Economy
+    term: Spring 2026
+    school: University of Oregon
