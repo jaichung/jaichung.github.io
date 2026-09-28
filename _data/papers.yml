@@ -28,8 +28,8 @@
     by comparing their own economic prospects with their parents'. When upward mobility stalls,
     this revision offsets the demographic advantage of high-fertility families and holds
     aggregate fertility at a stable, ultra-low equilibrium.
-  image:
-  image_alt:
+  image: /assets/img/pref_shares_posp05.png
+  image_alt: Fertility Crunch
   caption:
   links:
     - label: Working Paper (PDF)
@@ -55,7 +55,7 @@
   coauthors: "Jonathan Newton, and Jiabin Wu"
   status: working
   summary:
-  image:
+  image: /assets/img/path_dependence.png
   image_alt:
   links:
     - label: Available upon request
@@ -69,7 +69,7 @@
   coauthors:
   status: progress
   summary:
-  image:
+  image: /fig5a_combined_by_sex_edu.png
   image_alt:
   links:
   abstract:
