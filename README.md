@@ -9,7 +9,7 @@ Personal academic website of Jaichung Lee, built with Jekyll and served by GitHu
 | Bio, subtitle, fields, JMP label | `index.md` (front matter at the top, bio below it) |
 | Papers, abstracts, figures, links | `_data/papers.yml` |
 | References | `_data/references.yml` |
-| Teaching entries | `teaching.md` |
+| Teaching entries | `_data/teaching.yml` |
 | CV | replace `assets/CV_Jaichung_Lee.pdf` (keep the file name) |
 | Email, LinkedIn, menu | `_config.yml` |
 | Colors, fonts, spacing | `assets/css/style.css` (color tokens are at the top) |

@@ -1,0 +1,18 @@
+# ------------------------------------------------------------
+# Teaching entries, shown on the Teaching page in this order
+# (put the most recent course at the top).
+#
+# Fields
+#   course  course number and title
+#   role    e.g. Instructor of Record, Teaching Assistant
+#   term    e.g. Fall 2025, or several terms "Fall 2024, Winter 2025"
+#   school  institution
+#   note    optional one line (evaluations, enrollment, syllabus link in Markdown)
+# Fields left empty are simply not shown.
+# ------------------------------------------------------------
+
+- course: EC 370 Money and Banking
+  role:
+  term:
+  school: University of Oregon
+  note:
