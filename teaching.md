@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 statement_title: Teaching Approach
 # Set to "top" to show the teaching approach above the course lists
-statement_position: bottome
+statement_position: top
 ---
 
 {% assign t = site.data.teaching %}
@@ -63,4 +63,4 @@ statement_position: bottome
 {% endif %}
 
 {% if page.statement_position != "top" %}{{ statement }}{% endif %}
-</ul>
+

@@ -24,20 +24,82 @@ instructor:
   - course: EC 370 Money and Banking
     term: Fall 2024, Fall 2025
     school: University of Oregon
-    size: ~ 80 students
-    highlights: 
+    size: 76–79 students
+    highlights: Emphasized intuitive economic reasoning and applications to monetary and financial institutions, with worked examples and structured practice connecting models to real-world questions.
     feedback:
-      - "selected feedback."
+      - "The material is explained in an intuitive way."
+      - "I think it was very cool that the prof. would use real world problems to show how banking works."
+      - "She offered ample time for office hours and outside class support."
+
+  - course: EC 202Z Principles of Macroeconomics
+    term: Summer 2026
+    school: University of Oregon
+    size:  40 students
+    highlights: # 짧지만 매우 intense한 4주를 학생들이 잘 수행할 수 있도록 4주 daily plan 제시. 
+    feedback:
+      - "Professor Lee has been very helpful with any and all questions I had. She took the time to speak with me one on one when needed to help me navigate different situations that came up."
+
 
 
   - course: EC 313 Intermediate Macroeconomics
     term: Summer 2025
     school: University of Oregon
-    size: ~ 60 students
-    highlights: 
-    feedback:
+    size: 46 students
+    highlights: # Intensive four-week intermediate macroeconomics course organized around structured assignments and step-by-step application of core macroeconomic models.
+    feedback: []
+
+
 
 assistant:
   - course: EC 448/548 Political Economy
     term: Spring 2026
     school: University of Oregon
+
+  - course: EC 490/590 Development Economics
+    term: Winter 2026
+    school: University of Oregon
+
+  - course: EC 425/525 Econometrics
+    term: Spring 2025
+    school: University of Oregon
+
+  - course: EC 410/510 Economics of Power
+    term: Spring 2025
+    school: University of Oregon
+
+  - course: EC 340 Public Economics
+    term: Winter 2025
+    school: University of Oregon
+
+  - course: EC 333 Resource & Environmental Economic Issues
+    term: Winter 2025, Spring 2024
+    school: University of Oregon
+
+  - course: EC 410/510 Inequality and Economic Mobility
+    term: Spring 2024
+    school: University of Oregon
+
+  - course: EC 607 Core Econometrics and Core Microeconomics
+    term:
+    school: University of Oregon
+    highlights: First-year PhD courses.
+
+  - course: Topics of Applied Microeconomics
+    term: Fall 2020
+    school: Seoul National University
+
+  - course: Topics in Development Economics
+    term:
+    school: Seoul National University
+
+  - course: Applied Econometrics
+    term:
+    school: Seoul National University
+
+  - course: Mathematics for Economics
+    term:
+    school: Seoul National University
+
+  - course: Economic History
+    term:
+    school: Seoul National University
