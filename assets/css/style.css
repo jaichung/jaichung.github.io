@@ -183,8 +183,7 @@ a.thumb:hover, a.figure-frame:hover { border-color: var(--accent); }
 /* ---------- Generic pages ---------- */
 .page-title { font-size: 2.2rem; font-weight: 600; margin-bottom: 12px; }
 .page-intro { color: var(--muted); margin-bottom: 8px; }
-.prose h2 { margin: 44px 0 18px; font-family: var(--sans); font-size: 0.85rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); display: flex; align-items: center; gap: 14px; }
-.prose h2::after { content: ""; flex: 1; height: 1px; background: var(--rule); }
+.prose h2 { margin: 52px 0 20px; font-family: var(--sans); font-size: 1rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); display: flex; align-items: center; gap: 14px; }.prose h2::after { content: ""; flex: 1; height: 1px; background: var(--rule); }
 .prose h3 { margin: 28px 0 8px; font-size: 1.2rem; }
 .prose ul { padding-left: 1.2em; }
 
@@ -245,6 +244,5 @@ a.thumb:hover, a.figure-frame:hover { border-color: var(--accent); }
 .feedback blockquote { margin: 0 0 8px; padding: 2px 0 2px 14px; border-left: 2px solid var(--accent-soft); font-style: italic; color: var(--muted); font-size: 0.97rem; }
 .feedback blockquote:last-child { margin-bottom: 0; }
 .prose h3.entries-school { margin: 22px 0 4px; font-size: 1.02rem; font-weight: 600; color: var(--text); }
-.entries-compact .entry { padding: 9px 0; }
-.entries-compact .entry-title { font-weight: 400; }
+.prose h3.entries-school { margin: 28px 0 6px; font-size: 1.15rem; font-weight: 600; color: var(--text); }.entries-compact .entry-title { font-weight: 400; }
 .prose ul.entries { padding-left: 0; }
