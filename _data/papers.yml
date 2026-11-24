@@ -14,6 +14,12 @@
 #   image     path to a thumbnail figure, e.g. /assets/img/papers/fertility-crunch.png
 #             leave empty to show a neutral placeholder box
 #   image_alt short description of the figure (for screen readers)
+#   images    use instead of image to show several figures, e.g.
+#               images:
+#                 - src: /assets/img/a.png
+#                   alt: short description
+#                 - src: /assets/img/b.png
+#                   alt: short description
 #   caption   optional caption under the figure on the home page
 #   links     list of buttons, each with label and url
 #   abstract  full abstract
@@ -28,8 +34,11 @@
     by comparing their own economic prospects with their parents'. When upward mobility stalls,
     this revision offsets the demographic advantage of high-fertility families and holds
     aggregate fertility at a stable, ultra-low equilibrium.
-  image: /assets/img/pref_shares_posp05.png
-  image_alt: Fertility Crunch
+  images:
+    - src: /assets/img/shares_transition.png
+      alt: Transition of fertility preference shares
+    - src: /assets/img/tfr_transition.png
+      alt: Transition of the total fertility rate
   caption:
   links:
     - label: Working Paper (PDF)

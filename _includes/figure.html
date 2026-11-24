@@ -1,9 +1,20 @@
 {%- comment -%}
-  Renders a paper figure, or a neutral placeholder box when no image is set.
+  Renders a paper's figure(s), or a neutral placeholder box when no image is set.
+  A paper can set either `image` (one figure) or `images` (a list of figures,
+  each with `src` and optional `alt`). Multiple figures are wrapped in a
+  .figure-set so they sit side by side (home page) or stacked (research list).
   Usage: {% include figure.html paper=paper class="thumb" %}
 {%- endcomment -%}
 {%- assign p = include.paper -%}
-{%- if p.image and p.image != "" -%}
+{%- if p.images and p.images.size > 0 -%}
+  <div class="figure-set figure-set-{{ include.class }}">
+  {%- for im in p.images -%}
+    <a class="{{ include.class }}" href="{{ im.src | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ im.src | relative_url }}" alt="{{ im.alt | default: p.title | escape }}" loading="lazy">
+    </a>
+  {%- endfor -%}
+  </div>
+{%- elsif p.image and p.image != "" -%}
   <a class="{{ include.class }}" href="{{ p.image | relative_url }}" target="_blank" rel="noopener">
     <img src="{{ p.image | relative_url }}" alt="{{ p.image_alt | default: p.title | escape }}" loading="lazy">
   </a>
